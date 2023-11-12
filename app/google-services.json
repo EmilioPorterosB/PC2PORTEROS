@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "603692274558",
+    "project_id": "pc2porteros",
+    "storage_bucket": "pc2porteros.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603692274558:android:58cd76ab0809080373992f",
+        "android_client_info": {
+          "package_name": "com.example.pc2porteros"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0mRoVItQwjor0FpzSYgCatTNMXlNyt_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
